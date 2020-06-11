@@ -135,7 +135,7 @@ nav{
  .heading{
   color: #D9B77B;
   position: absolute;
-  top: 140%;
+  top: 130%;
   left: 50%;
   font-style: normal;
   font-weight: 500;
@@ -143,6 +143,7 @@ nav{
   line-height: 42px;
   letter-spacing: 0.25em;
   transform: translateX(-50%);
+  z-index: 6;
 }
 
 .showcase-rooms-1{
@@ -494,9 +495,7 @@ nav{
 
 
 @media(min-width:1200px){
-  .heading{
-    top: 165%;
-  }
+
 }
 
 @media(max-width: 1200px){
@@ -505,9 +504,6 @@ nav{
     line-height: 25px;
     letter-spacing: 0.10em;
     padding: 2rem;
-  }
-  .heading{
-    top: 162%;
   }
   
   
@@ -546,9 +542,6 @@ nav{
     line-height: 30px;
     margin: 2.0rem 0 0 0;
     letter-spacing: 0.15em;
-  }
-  .heading{
-    top: 162%;
   }
   
 }
@@ -736,15 +729,15 @@ nav{
     margin: 0 0.10rem;
     font-size: 16px;
   }
-  .heading{
-    top: 150%;
-  }
+
 }
 
 @media(max-width:680px){
   .heading{
-    top: 130%;
+    top: 110%;
+   
   }
+  
   .showcase-rooms-1{
   
     margin-top: 8.0rem;
