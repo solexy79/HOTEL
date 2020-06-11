@@ -792,66 +792,7 @@ nav{
   .showcase-rooms-6{
     margin-top: 0rem;
   }
-  .showcase-rooms-1::after{
-    content: "BOOK NOW";
-    position: absolute;
-    top: 205%;
-    left: 50%;
-    transform: translateX(-50%);
-    color: #fff;
-    background: #D9B77B;
-    padding: 1rem;
-  }
-  .showcase-rooms-2::after{
-    content: "BOOK NOW";
-    position: absolute;
-    top: 290%;
-    left: 50%;
-    transform: translateX(-50%);
-    color: #fff;
-    background: #D9B77B;
-    padding: 1rem;
-  }
-  .showcase-rooms-3::after{
-    content: "BOOK NOW";
-    position: absolute;
-    top: 380%;
-    left: 50%;
-    transform: translateX(-50%);
-    color: #fff;
-    background: #D9B77B;
-    padding: 1rem;
-  }
-  .showcase-rooms-4::after{
-    content: "BOOK NOW";
-    position: absolute;
-    top: 470%;
-    left: 50%;
-    transform: translateX(-50%);
-    color: #fff;
-    background: #D9B77B;
-    padding: 1rem;
-  }
-  .showcase-rooms-5::after{
-    content: "BOOK NOW";
-    position: absolute;
-    top: 560%;
-    left: 50%;
-    transform: translateX(-50%);
-    color: #fff;
-    background: #D9B77B;
-    padding: 1rem;
-  }
-  .showcase-rooms-6::after{
-    content: "BOOK NOW";
-    position: absolute;
-    top: 650%;
-    left: 50%;
-    transform: translateX(-50%);
-    color: #fff;
-    background: #D9B77B;
-    padding: 1rem;
-  }
+
   .showcase-rooms-1::before{
     content: "STARCRUISER 1";
     position: absolute;
